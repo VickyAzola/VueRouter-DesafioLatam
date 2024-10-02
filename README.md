@@ -22,7 +22,7 @@ Este proyecto permite la navegacion entre páginas mediante el uso de Vue Router
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone git@github.com:VickyAzola/VueRouter-DesafioLatam.git
+    git clone https://github.com/VickyAzola/VueRouter-DesafioLatam.git
     ```
 2. **Navega al directorio del proyecto**
     ```bash
