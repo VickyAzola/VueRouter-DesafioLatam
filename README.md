@@ -11,6 +11,10 @@
 
 Este proyecto permite la navegacion entre páginas mediante el uso de Vue Router. Cuenta con una página HomePage donde muestran los productos más populares, una página de productos y una de contácto. 
 
+[Revisa la página aquí](https://vuerouter-desafiolatam.netlify.app/)
+
+![suricata](https://github.com/user-attachments/assets/2ffb1f37-c184-42c3-ac76-6b6bf245be04)
+
 ## Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura del sitio web.
