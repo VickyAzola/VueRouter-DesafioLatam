@@ -45,7 +45,7 @@ export default {
         <!-- primera con props del router -->
         <div class="col-12 col-md-6 col-lg-4 px-5 mb-4">
           <div class="card">
-            <img src="../assets/img/desayunos.jpg" class="card-img-top" alt="desayuno" />
+            <img src="/img/desayunos.jpg" class="card-img-top" alt="desayuno" />
             <div class="card-body">
               <h5 class="card-title fw-bold">{{ nombre }}</h5>
               <p class="card-text">
