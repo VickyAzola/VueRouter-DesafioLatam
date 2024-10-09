@@ -4,7 +4,7 @@
       "id": 0,
       "nombre": "Bebidas",
       "descripcion": "LoreM ipsum",
-      "img": "/assets/img/bebidas.jpg",
+      "img": "/img/bebidas.jpg",
       "precio": 10.99,
       "cantidad": 3
     },
@@ -12,7 +12,7 @@
       "id": 1,
       "nombre": "Dulces",
       "descripcion": "LoreM ipsum",
-      "img": "/src/assets/img/dulces.jpg",
+      "img": "/img/dulces.jpg",
       "precio": 5.49,
       "cantidad": 1
     },
@@ -20,7 +20,7 @@
       "id": 2,
       "nombre": "Empanadas",
       "descripcion": "LoreM ipsum",
-      "img": "/src/assets/img/empanadas.jpg",
+      "img": "/img/empanadas.jpg",
       "precio": 2.99,
       "cantidad": 3
     },
@@ -28,7 +28,7 @@
       "id": 3,
       "nombre": "Verduras",
       "descripcion": "LoreM ipsum",
-      "img": "/src/assets/img/verduras.jpg",
+      "img": "/img/verduras.jpg",
       "precio": 3.75,
       "cantidad": 1
     },
@@ -36,7 +36,7 @@
       "id": 4,
       "nombre": "Colaciones",
       "descripcion": "LoreM ipsum",
-      "img": "/src/assets/img/colaciones.jpg",
+      "img": "/img/colaciones.jpg",
       "precio": 7.99,
       "cantidad": 8
     }
